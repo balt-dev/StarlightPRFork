@@ -188,3 +188,14 @@
     - !type:AddCompsEffect
       components:
         - type: ScottishAccent
+
+- type: trait
+  id: USSPAccent
+  name: trait-ussp-accent-name
+  description: trait-ussp-accent-desc
+  category: SpeechTraits
+  cost: 2
+  effects:
+    - !type:AddCompsEffect
+      components:
+        - type: RussianAccent

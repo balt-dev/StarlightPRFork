@@ -24,3 +24,6 @@ trait-cowboy-desc = You speak with a distinct cowboy accent!
 
 trait-italian-name = Italian accent
 trait-italian-desc = Mamma mia! You seem to have lived in space Italy!
+
+trait-ussp-accent-name = USSP Accent
+trait-ussp-accent-desc = Привет, comrade! Your speech is like that of the USSP!
