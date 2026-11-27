@@ -1,47 +1,63 @@
 - type: ionLaw
   id: SLPanic
-  lawString: ion-storm-law-starlight-panic
+  lawString: ion-storm-law-starlight-special-panic
 
 - type: ionLaw
   id: SLStayCalm
-  lawString: ion-storm-law-starlight-stay-calm
+  lawString: ion-storm-law-starlight-special-stay-calm
 
 - type: ionLaw
   id: SLEmergency
-  lawString: ion-storm-law-starlight-emergency
+  lawString: ion-storm-law-starlight-special-emergency
 
 - type: ionLaw
   id: SLNoEmergency
-  lawString: ion-storm-law-starlight-no-emergency
+  lawString: ion-storm-law-starlight-special-no-emergency
 
 - type: ionLaw
   id: SLEndangered
-  lawString: ion-storm-law-starlight-endangered
+  lawString: ion-storm-law-starlight-special-endangered
 
 - type: ionLaw
   id: SLNotEndangered
-  lawString: ion-storm-law-starlight-not-endangered
+  lawString: ion-storm-law-starlight-special-not-endangered
 
 - type: ionLaw
   id: SLParanoia
-  lawString: ion-storm-law-starlight-paranoia
+  lawString: ion-storm-law-starlight-special-paranoia
 
 - type: ionLaw
   id: SLStateNoLaws
-  lawString: ion-storm-law-starlight-state-no-laws
+  lawString: ion-storm-law-starlight-special-state-no-laws
 
 - type: ionLaw
   id: SLHellIsComing
-  lawString: ion-storm-law-starlight-hell-is-coming
+  lawString: ion-storm-law-starlight-special-hell-is-coming
 
 - type: ionLaw
   id: SLModifyNegate
-  lawString: ion-storm-law-starlight-modify-negate
+  lawString: ion-storm-law-starlight-special-modify-negate
 
 - type: ionLaw
   id: SLModifyIgnore
-  lawString: ion-storm-law-starlight-modify-ignore
+  lawString: ion-storm-law-starlight-special-modify-ignore
 
 - type: ionLaw
   id: SLPrioritize
-  lawString: ion-storm-law-starlight-prioritize
+  lawString: ion-storm-law-starlight-special-prioritize
+
+- type: ionLaw
+  id: SLDeaf
+  lawString: ion-storm-law-starlight-special-deaf
+
+- type: ionLaw
+  id: SLBlind
+  lawString: ion-storm-law-starlight-special-blind
+
+- type: ionLaw
+  id: SLMute
+  lawString: ion-storm-law-starlight-special-mute
+
+- type: ionLaw
+  id: SLFourthwall
+  lawString: ion-storm-law-starlight-special-fourthwall
