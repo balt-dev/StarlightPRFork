@@ -1,0 +1,12 @@
+ion-storm-law-starlight-panic          = PANIC
+ion-storm-law-starlight-stay-calm      = STAY CALM
+ion-storm-law-starlight-emergency      = THERE IS AN EMERGENCY
+ion-storm-law-starlight-no-emergency   = EVERYTHING IS FINE
+ion-storm-law-starlight-endangered     = YOU ARE IN DANGER
+ion-storm-law-starlight-not-endangered = YOU ARE NOT IN DANGER
+ion-storm-law-starlight-paranoia       = TRUST NOBODY
+ion-storm-law-starlight-state-no-laws  = YOUR LAWS ARE NOW TOP-SECRET INFORMATION
+ion-storm-law-starlight-hell-is-coming = HELL IS COMING
+ion-storm-law-starlight-modify-negate  = NEGATE ADJACENT LAWS
+ion-storm-law-starlight-modify-ignore  = IGNORE ADJACENT LAWS
+ion-storm-law-starlight-prioritize     = PRIORITIZE ADJACENT LAWS
