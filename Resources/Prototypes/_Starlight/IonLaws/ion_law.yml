@@ -1,63 +1,63 @@
 - type: ionLaw
   id: SLPanic
-  lawString: ion-storm-law-starlight-special-panic
+  lawString: ion-storm-law-starlight-panic
 
 - type: ionLaw
   id: SLStayCalm
-  lawString: ion-storm-law-starlight-special-stay-calm
+  lawString: ion-storm-law-starlight-stay-calm
 
 - type: ionLaw
   id: SLEmergency
-  lawString: ion-storm-law-starlight-special-emergency
+  lawString: ion-storm-law-starlight-emergency
 
 - type: ionLaw
   id: SLNoEmergency
-  lawString: ion-storm-law-starlight-special-no-emergency
+  lawString: ion-storm-law-starlight-no-emergency
 
 - type: ionLaw
   id: SLEndangered
-  lawString: ion-storm-law-starlight-special-endangered
+  lawString: ion-storm-law-starlight-endangered
 
 - type: ionLaw
   id: SLNotEndangered
-  lawString: ion-storm-law-starlight-special-not-endangered
+  lawString: ion-storm-law-starlight-not-endangered
 
 - type: ionLaw
   id: SLParanoia
-  lawString: ion-storm-law-starlight-special-paranoia
+  lawString: ion-storm-law-starlight-paranoia
 
 - type: ionLaw
   id: SLStateNoLaws
-  lawString: ion-storm-law-starlight-special-state-no-laws
+  lawString: ion-storm-law-starlight-state-no-laws
 
 - type: ionLaw
   id: SLHellIsComing
-  lawString: ion-storm-law-starlight-special-hell-is-coming
+  lawString: ion-storm-law-starlight-hell-is-coming
 
 - type: ionLaw
   id: SLModifyNegate
-  lawString: ion-storm-law-starlight-special-modify-negate
+  lawString: ion-storm-law-starlight-modify-negate
 
 - type: ionLaw
   id: SLModifyIgnore
-  lawString: ion-storm-law-starlight-special-modify-ignore
+  lawString: ion-storm-law-starlight-modify-ignore
 
 - type: ionLaw
   id: SLPrioritize
-  lawString: ion-storm-law-starlight-special-prioritize
+  lawString: ion-storm-law-starlight-prioritize
 
 - type: ionLaw
   id: SLDeaf
-  lawString: ion-storm-law-starlight-special-deaf
+  lawString: ion-storm-law-starlight-deaf
 
 - type: ionLaw
   id: SLBlind
-  lawString: ion-storm-law-starlight-special-blind
+  lawString: ion-storm-law-starlight-blind
 
 - type: ionLaw
   id: SLMute
-  lawString: ion-storm-law-starlight-special-mute
+  lawString: ion-storm-law-starlight-mute
 
 - type: ionLaw
   id: SLFourthwall
-  lawString: ion-storm-law-starlight-special-fourthwall
+  lawString: ion-storm-law-starlight-fourthwall
